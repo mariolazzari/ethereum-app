@@ -66,3 +66,11 @@ Application that runs in more different nodes
 - Short identifier (symbol)
 - Current balance of each user (balances)
 - Tokens authorized to transfer (allowed)
+
+## Smart contract
+
+Data and functionality to manage:
+- Products
+- Users
+- Ownership
+- Data transfer
