@@ -58,3 +58,11 @@ Application that runs in more different nodes
 - Trusted data
 - Allow users to access blockchain data
   
+## Payment token smart contract data items
+
+- Total number of tokens in circulation (totSupply)
+- Descriptive name (name)
+- Decimal precision (decimal)
+- Short identifier (symbol)
+- Current balance of each user (balances)
+- Tokens authorized to transfer (allowed)
