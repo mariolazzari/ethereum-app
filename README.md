@@ -74,3 +74,12 @@ Data and functionality to manage:
 - Users
 - Ownership
 - Data transfer
+
+## Supply chain app
+
+```sh
+brew install truffle
+mkdir supplyChainApp
+truffle init
+
+```
